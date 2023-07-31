@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Dhruv-Variya
+### Hi there, I'm Dhruv Variya 
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Dhrmasinh Desai University
 
+
+
+
+### Connect with me:
 
 [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/Dhruv-Variya)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/dhruv-variya-a8378a215/)
