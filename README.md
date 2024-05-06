@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhruv Variya
 
-- Full Stack Developer | Eager to continuously expand my skills and explore new technologies.
+#### A Passionate Full Stack Developer. Actively engaged as a Software Developer at Samudra Technologies. Eager to continuously expand my skills and explore new technologies.
 
 
 #### Connect with me:
@@ -8,8 +8,6 @@
 [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/Dhruv-Variya)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/dhruv-variya-a8378a215/)
 [![My Skills](https://skillicons.dev/icons?i=instagram&perline=3)](https://www.instagram.com/dhruv_variya__/)
-
-#### A Passionate Full Stack Developer. Actively engaged as a Software Developer intern at Samudra Technologies. Eager to continuously expand my skills and explore new technologies.
 
 - I'm a dedicated full-stack developer with a passion for creating impactful solutions. With experience in both front-end and back-end development, I specialize in building robust and user-friendly web applications. I believe in continuous learning and stay updated with the latest technologies to deliver high-quality work. As a collaborative team player, I enjoy working with others to solve challenges and achieve project goals.
 
