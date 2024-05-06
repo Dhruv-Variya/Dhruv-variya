@@ -15,7 +15,7 @@
 - LinkedIn : dhruv-variya-a8378a215
 - GitHub: Dhruv-Variya
 
-### My education:
+#### My education:
 - B.Tech. in Computer Engineering - Dharmsinh Desai University, Nadiad.
 - HSC (11-12 Science) - Shree BAPS Swaminarayan School, Gondal.
 
