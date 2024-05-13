@@ -6,7 +6,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruv-Variya&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv-Variya" /> </p>
 <h1>About ME 💬 :</h1>
-<p>💻 I’m a Final year computer science student.<p>
 <p>I'm a dedicated full-stack developer with a passion for creating impactful solutions. 💡 With experience in both front-end and back-end development, I specialize in building robust and user-friendly web applications 🌐.  I believe in continuous learning and stay updated with the latest technologies to deliver high-quality work. 📚</p>
 <p>Currently, I'm expanding my skills in Data Structures and Algorithms and furthering my expertise in Web Development. 💻<p>
 <p>As a collaborative team player, I enjoy working with others to solve challenges and achieve project goals. 🚀🔍</p>
