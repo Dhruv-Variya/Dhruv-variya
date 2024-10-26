@@ -12,8 +12,6 @@
 
 <h1>Hobbies :</h1>
 <p>Playing games.<p>
-<p>Watching Series.<p>
-<p>Watching Youtube.<p>
 <p>And Sometimes do nothing.😁<p>
 
 <h3 align="left">Languages :</h3>
